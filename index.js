@@ -1,3 +1,6 @@
+# This is Laughing fortnight made with python
+# Start of program
+
 import chalk from "chalk";
 import { Command } from "commander";
 import readline from "readline";
